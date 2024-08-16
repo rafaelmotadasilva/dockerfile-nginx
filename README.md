@@ -46,7 +46,7 @@ No diretório onde está o Dockerfile, execute:
 sudo docker build -t rafaelmotadasilva/nginx .
 ```
 
-### Execute o container
+### Execute o contêiner
 
 ```
 sudo docker run -d -p 80:80 rafaelmotadasilva/nginx
