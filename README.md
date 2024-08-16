@@ -1,7 +1,6 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="docker-mark-blue.svg"></a>
-    <span> Criando um Dockerfile para o Nginx</span>
+    <img align="center" width="40px" src="./docker-mark-blue.svg" alt="Docker logo">
+    <span>Criando um Dockerfile para o Nginx</span>
 </h1>
 
 Repositório desenvolvido para fins educativos.
