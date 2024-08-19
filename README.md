@@ -21,6 +21,7 @@ Criar e executar um Dockerfile com a imagem do Nginx para realizar as seguintes 
 
 ```
 FROM nginx
+
 COPY static-html-directory /usr/share/nginx/html/
 EXPOSE 80
 ```
